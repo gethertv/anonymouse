@@ -1,0 +1,4 @@
+name: anonymouse
+version: '${project.version}'
+main: dev.gether.anonymouse.Anonymouse
+api-version: '1.16'
